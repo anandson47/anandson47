@@ -9,23 +9,26 @@ This github account will be updated to show my progress in the world of coding a
 I hope to start practicing on leetcode soon as well and will post my answers for the same here. (This will be the case for any other coding challenge websites)
 
 Current Skills:
--> Python Programming
--> React
--> HTML5, CSS3 and JavaScript
--> Node and Express JS
--> Spring Boot
--> Core Java and JPA with Hibernate
--> Object oriented programming
--> Wordpress and Elementor
+
+- Python Programming
+- React
+- HTML5, CSS3 and JavaScript
+- Node and Express JS
+- Spring Boot
+- Core Java and JPA with Hibernate
+- Object oriented programming
+- Wordpress and Elementor
 
 Currently Learning: 
--> Ethical Hacking 
--> BlockChain Development
+
+- Ethical Hacking 
+- BlockChain Development
 
 Currently Revisiting:
--> React
--> Spring Boot
--> Data Structure and Algorithms
+
+- React
+- Spring Boot
+- Data Structure and Algorithms
 
 
 
