@@ -22,6 +22,7 @@ Current Skills:
 Currently Learning: 
 
 - Ethical Hacking 
+- UI/UX development using Figma
 - BlockChain Development
 
 Currently Revisiting:
