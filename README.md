@@ -24,6 +24,7 @@ Currently Learning:
 - Ethical Hacking 
 - UI/UX development using Figma
 - BlockChain Development
+- Machine learning and Data Science
 
 Currently Revisiting:
 
