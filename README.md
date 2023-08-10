@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning various new technologies out there and I am a learner and a new entrant into the world of the development.
 - 🌱 I’m currently learning Ethical Hacking and Block Chain Development(The whole web3 , smart contract world seems increasingly interesting.)
 - 💞️ I’m looking to collaborate on any projects based on full stack development using React, Spring , Express, Node.
-- 📫 You can contact me on my email : anandvijay.namboodiri@gmail.com
+- 📫 You can contact me on my email : anandson47@gmail.com
 
 This github account will be updated to show my progress in the world of coding and also showcase some of the open source projects I will be working on soon.
 
