@@ -1,6 +1,6 @@
 - 👋 Hey friends, my name is Anand Vijay. I'm from Kerala , India
 - 👀 I’m interested in learning various new technologies out there and I am a learner and a new entrant into the world of the development.
-- 🌱 I’m currently learning Ethical Hacking and Block Chain Development(The whole web3 , smart contract world seems increasingly interesting.)
+- 🌱 I’m currentlyfocusing on Generative AI implementation in my normal projects.
 - 💞️ I’m looking to collaborate on any projects based on full stack development using React, Spring , Express, Node.
 - 📫 You can contact me on my email : anandson47@gmail.com
 
@@ -17,14 +17,10 @@ Current Skills:
 - Spring Boot
 - Core Java and JPA with Hibernate
 - Object oriented programming
-- Wordpress and Elementor
+- Angular
 
 Currently Learning: 
-
-- Ethical Hacking 
-- UI/UX development using Figma
-- BlockChain Development
-- Machine learning and Data Science
+{Stuck at work :(}
 
 Currently Revisiting:
 
